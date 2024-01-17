@@ -6,7 +6,7 @@
     "Punchline": "Now you can finally remember people!",
     "Description": "Keep notes on other players. Tracks when you met and last interacted with others.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/ArimochiXIV/AetherLib",
+    "RepoUrl": "https://github.com/ArimochiXIV/MemoMate",
     "DownloadLinkTesting": "https://github.com/ArimochiXIV/MemoMate/releases/download/release/latest.zip",
     "IsTestingExclusive": "True",
     "Tags": [
