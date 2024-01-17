@@ -1,3 +1,3 @@
 # Repository for Arimochi's plugins
 
-Add `https://raw.githubusercontent.com/LeonBlade/DalamudPlugins/main/repo.json` to your Dalamud repo list.
+Add `https://raw.githubusercontent.com/ArimochiXIV/PluginRepo/blob/main/repo.json` to your Dalamud repo list.
