@@ -6,7 +6,7 @@
     "Description": "Keep notes on other players. Tracks when you met and last interacted with others.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ArimochiXIV/AetherLib",
-    "DownloadLinkTesting": "https://github.com/LeonBlade/BDTHPlugin/releases/download/1.6.1/BDTHPlugin.zip",
+    "DownloadLinkTesting": "https://github.com/ArimochiXIV/MemoMate/releases/download/release/latest.zip",
     "IsTestingExclusive": "True",
     "Tags": [
       "plugin",
