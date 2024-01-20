@@ -8,7 +8,7 @@
     "AssemblyVersion": "0.3.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ArimochiXIV/MemoMate",
-    "DownloadLink": "https://github.com/ArimochiXIV/MemoMate/releases/download/release-0.3/latest.zip",
+    "DownloadLinkInstall": "https://github.com/ArimochiXIV/MemoMate/releases/download/release-0.3/latest.zip",
     "Tags": [
       "plugin",
       "memo",
