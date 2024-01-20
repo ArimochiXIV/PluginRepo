@@ -4,7 +4,7 @@
     "Name": "MemoMate",
     "InternalName": "MemoMate",
     "Punchline": "Now you can finally remember people!",
-    "Description": "Keep notes on other players. Tracks when you met and last interacted with others.",
+    "Description": "Keep notes on other players.",
     "AssemblyVersion": "0.2.0",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/ArimochiXIV/MemoMate",
