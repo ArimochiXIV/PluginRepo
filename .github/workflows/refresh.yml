@@ -6,4 +6,11 @@ jobs:
   refresh:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "maybe this works?"
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Run repo.json builder
+        uses: actions/setup-node@v3
+        with:
+          node-version: '20.x'
+        run: node ./builder/index.js
