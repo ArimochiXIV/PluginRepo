@@ -1,0 +1,9 @@
+name: Repo Refresh
+
+on: [repository_dispatch]
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "maybe this works?"
