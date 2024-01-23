@@ -9,8 +9,10 @@ jobs:
       - name: Check out repository code
         uses: actions/checkout@v4
 
-      - name: Run repo.json builder
+      - name: Setup NodeJS
         uses: actions/setup-node@v3
         with:
           node-version: '20.x'
+
+      - name: Run repo.json builder
         run: node ./builder/index.js
